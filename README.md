@@ -28,7 +28,7 @@
         <img align="right" src="images\logo.png" alt="Bee nest Logo" width="100">
     </a>
     
-<h1 align="center">Bee nest</h1>
+<h1>Bee nest</h1>
 </div>
 
 <strong>Bee nest</strong> is an open-source, lightweight and cloud-native Minecraft server with focusing in high-performance and high-availability to huge network servers, keeping compability with Bukkit-API.
