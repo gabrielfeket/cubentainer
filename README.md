@@ -18,7 +18,6 @@
 
 </div>
 
-
 <br />
 
 
@@ -27,7 +26,7 @@
     <a href="https://github.com/gabrielfeket/cubentainer">
         <img align="right" src="images\logo.png" alt="Bee nest Logo" width="100">
     </a>
-    
+
 <h1>Bee nest</h1>
 </div>
 
@@ -43,8 +42,11 @@
 
 <br />
 
+<hr />
+
 [![Product Name Screen Shot][product-screenshot]](https://github.com/gabrielfeket/cubentainer)
 
+<hr />
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -71,17 +73,17 @@
 
 For local development and testing, you can run <strong>Bee nest</strong> in a container on your machine.
 
-### Prerequisites
+## Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
-  
-#### Container runtimes
 
-You need to install a container runtime into each node in the cluster. 
+### Container runtimes
+
+You need to install a container runtime into each node in the cluster.
 
 This page lists details for using several common container runtimes, on Linux:
 
