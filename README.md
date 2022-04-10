@@ -19,39 +19,37 @@
 </div>
 
 
-
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/gabrielfeket/cubentainer">
-    <img src="images\logo.png" alt="Bee nest Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">Bee nest</h3>
 
-  <p align="center">
-    <strong>Bee nest</strong> is a cloud-native game server for Minecraft Java Edition.
-    <br />
+<!-- Header -->
+<div>
+    <a href="https://github.com/gabrielfeket/cubentainer">
+        <img align="right" src="images\logo.png" alt="Bee nest Logo" width="100">
+    </a>
+    
+<h1 align="center">Bee nest</h1>
+</div>
+
+<strong>Bee nest</strong> is an open-source, lightweight and cloud-native Minecraft server with focusing in high-performance and high-availability to huge network servers, keeping compability with Bukkit-API.
+
+<p align="center">
     <a href="https://github.com/gabrielfeket/cubentainer/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://github.com/gabrielfeket/cubentainer/issues">Report Bug</a>
     ·
     <a href="https://github.com/gabrielfeket/cubentainer/issues">Request Feature</a>
   </p>
-</div>
 
+<br />
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/gabrielfeket/cubentainer)
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -67,29 +65,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/gabrielfeket/cubentainer)
-
-<strong>Bee nest</strong> is an open-source, lightweight and cloud-native Minecraft server with focusing in high-performance and high-availability to huge network servers, keeping compability with Bukkit-API.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Adoptium](https://adoptium.net/) <small>version: JDK-17</small>
-* [Gradle](https://gradle.org/) <small>version: 1.16.5</small>
-* [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) <small>version: 1.16.5</small>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
